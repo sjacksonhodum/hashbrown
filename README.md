@@ -26,7 +26,7 @@
 
 ### Download
 
-- Download the latest `.dmg` from the [Releases](#) page (or use the `hashbrown_final.dmg` in this repo).
+- Download the latest `.dmg` from the [Releases](https://github.com/sjacksonhodum/hashbrown/releases) page (or use the `hashbrown_final.dmg` in this repo).
 - Open the DMG and drag **hashbrown** to your Applications folder.
 
 ### Build from Source
@@ -36,7 +36,7 @@
    - Xcode 15+
 2. **Clone the repository:**
    ```sh
-   git clone https://github.com/FIXTHIS
+   git clone https://github.com/sjacksonhodum/hashbrown/
    cd hashbrown
    ```
 3. **Open in Xcode:**  
